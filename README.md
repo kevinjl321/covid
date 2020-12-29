@@ -1,6 +1,6 @@
 ## Available Scripts
 
-In the project directory, you can run:
+s/o to CleverProgrammers for the guidance: https://www.youtube.com/watch?v=cF3pIMJUZxM
 
 ### `npm start`
 
