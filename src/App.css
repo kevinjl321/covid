@@ -5,18 +5,18 @@
 }
 
 body {
-  background-color: #f5f6fa;
+  background-color: #121212;
 }
 
 .app {
   display: flex;
   justify-content: space-evenly;
-  background-color: #f5f6fa;
+  background-color: #121212;
   padding: 20px;
 }
 
 .app__dropdown {
-  background-color: white;
+  background-color: #424242;
 }
 
 .app__header {
@@ -26,9 +26,10 @@ body {
   justify-content: space-between;
 }
 
-.app__header > h1 {
-  color: #fc3c3c;
-  font-size: 2rem;
+
+.app__header h1 {
+  color: #ffffff;
+  font-size: 3.5rem;
 }
 
 .app__stats {
@@ -40,14 +41,18 @@ body {
   flex: 0.9;
 }
 
-.app__information > h3 {
+.app__right {
+  background-color: #424242;
+}
+
+.app__information h3 {
   color: #6a5d5d;
   font-weight: 400;
   font-size: 1.5rem;
   margin-bottom: 1rem;
 }
 
-.app__information > h3:last-of-type {
+.app__information h3:last-of-type {
   margin-top: 1rem;
 }
 
