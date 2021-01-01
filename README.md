@@ -1,6 +1,4 @@
-## Available Scripts
-
-s/o to CleverProgrammers for the guidance: https://www.youtube.com/watch?v=cF3pIMJUZxM
+S/O to CleverProgrammers for the guidance: https://www.youtube.com/watch?v=cF3pIMJUZxM
 
 ### `npm start`
 
